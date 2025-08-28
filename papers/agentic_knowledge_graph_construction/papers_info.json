@@ -1,0 +1,26 @@
+{
+  "2508.04118v1": {
+    "title": "AgREE: Agentic Reasoning for Knowledge Graph Completion on Emerging Entities",
+    "authors": [
+      "Ruochen Zhao",
+      "Simone Conia",
+      "Eric Peng",
+      "Min Li",
+      "Saloni Potdar"
+    ],
+    "summary": "Open-domain Knowledge Graph Completion (KGC) faces significant challenges in\nan ever-changing world, especially when considering the continual emergence of\nnew entities in daily news. Existing approaches for KGC mainly rely on\npretrained language models' parametric knowledge, pre-constructed queries, or\nsingle-step retrieval, typically requiring substantial supervision and training\ndata. Even so, they often fail to capture comprehensive and up-to-date\ninformation about unpopular and/or emerging entities. To this end, we introduce\nAgentic Reasoning for Emerging Entities (AgREE), a novel agent-based framework\nthat combines iterative retrieval actions and multi-step reasoning to\ndynamically construct rich knowledge graph triplets. Experiments show that,\ndespite requiring zero training efforts, AgREE significantly outperforms\nexisting methods in constructing knowledge graph triplets, especially for\nemerging entities that were not seen during language models' training\nprocesses, outperforming previous methods by up to 13.7%. Moreover, we propose\na new evaluation methodology that addresses a fundamental weakness of existing\nsetups and a new benchmark for KGC on emerging entities. Our work demonstrates\nthe effectiveness of combining agent-based reasoning with strategic information\nretrieval for maintaining up-to-date knowledge graphs in dynamic information\nenvironments.",
+    "pdf_url": "http://arxiv.org/pdf/2508.04118v1",
+    "published": "2025-08-06"
+  },
+  "2403.19253v2": {
+    "title": "Inferring Latent Temporal Sparse Coordination Graph for Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Wei Duan",
+      "Jie Lu",
+      "Junyu Xuan"
+    ],
+    "summary": "Effective agent coordination is crucial in cooperative Multi-Agent\nReinforcement Learning (MARL). While agent cooperation can be represented by\ngraph structures, prevailing graph learning methods in MARL are limited. They\nrely solely on one-step observations, neglecting crucial historical\nexperiences, leading to deficient graphs that foster redundant or detrimental\ninformation exchanges. Additionally, high computational demands for action-pair\ncalculations in dense graphs impede scalability. To address these challenges,\nwe propose inferring a Latent Temporal Sparse Coordination Graph (LTS-CG) for\nMARL. The LTS-CG leverages agents' historical observations to calculate an\nagent-pair probability matrix, where a sparse graph is sampled from and used\nfor knowledge exchange between agents, thereby simultaneously capturing agent\ndependencies and relation uncertainty. The computational complexity of this\nprocedure is only related to the number of agents. This graph learning process\nis further augmented by two innovative characteristics: Predict-Future, which\nenables agents to foresee upcoming observations, and Infer-Present, ensuring a\nthorough grasp of the environmental context from limited data. These features\nallow LTS-CG to construct temporal graphs from historical and real-time\ninformation, promoting knowledge exchange during policy learning and effective\ncollaboration. Graph learning and agent training occur simultaneously in an\nend-to-end manner. Our demonstrated results on the StarCraft II benchmark\nunderscore LTS-CG's superior performance.",
+    "pdf_url": "http://arxiv.org/pdf/2403.19253v2",
+    "published": "2024-03-28"
+  }
+}

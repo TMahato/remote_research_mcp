@@ -1,0 +1,1 @@
+npx @modelcontextprotocol/inspector uv run research_server.py

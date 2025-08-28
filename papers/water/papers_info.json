@@ -1,0 +1,58 @@
+{
+  "1003.3185v1": {
+    "title": "A search for the Mpemba effect: When hot water freezes faster then cold water",
+    "authors": [
+      "James D. Brownridge"
+    ],
+    "summary": "An explanation for why hot water will sometime freeze more rapidly than cold\nwater is offered. Two specimens of water from the same source will often have\ndifferent spontaneous freezing temperatures; that is, the temperature at which\nfreezing begins. When both specimens supercool and the spontaneous freezing\ntemperature of the hot water is higher than that of the cold water, then the\nhot water will usually freeze first, if all other conditions are equal and\nremain so during cooling. The probability that the hot water will freeze first\nif it has the higher spontaneous freezing temperature will be larger for a\nlarger difference in spontaneous freezing temperature. Heating the water may\nlower, raise or not change the spontaneous freezing temperature. The keys to\nobserving hot water freezing before cold water are supercooling the water and\nhaving a significant difference in the spontaneous freezing temperature of the\ntwo water specimens. We observed hot water freezing before cold water 28 times\nin 28 attempts under the conditions described here.",
+    "pdf_url": "http://arxiv.org/pdf/1003.3185v1",
+    "published": "2010-03-16"
+  },
+  "1601.06889v3": {
+    "title": "The physical origin of hydrophobic effects",
+    "authors": [
+      "Qiang Sun"
+    ],
+    "summary": "The strength of hydrogen bonding in water is stronger than that of van der\nwaals interaction, therefore water may play an important role in the process of\nhydrophobic effects. When a hydrophobic solute is dissolved into water, an\ninterface appears between the solute and water. To understand the mechanism of\nhydrophobic effects, it is necessary to study the structure of water and\nsolute/water interface. In this study, based on the structural studies on water\nand air/water interface, the hydration free energy is derived, and utilized to\ninvestigate the physical origin of hydrophobic effects. According to the\ndiscussion on hydration free energy, with increasing solute size, it can be\ndivided into the initial and hydrophobic solvation processes, respectively. In\nthe initial solvation process, hydration free energy is dominated by the\nhydrogen bonding in interfacial water (topmost water layer at the solute/water\ninterface). However, in the hydrophobic solvation process, the hydration free\nenergy is related to hydrogen bondings of both bulk water and interfacial\nwater. Additionally, various dissolved behaviors of solutes can be expected for\ndifferent solvation processes. From this, hydrophobic effects can be ascribed\nto the competition between the hydrogen bondings in bulk water and those in\ninterfacial water.",
+    "pdf_url": "http://arxiv.org/pdf/1601.06889v3",
+    "published": "2016-01-26"
+  },
+  "1504.02655v2": {
+    "title": "Topological water wave state in a one-dimensional structure",
+    "authors": [
+      "Zhaoju Yang",
+      "Fei Gao",
+      "Baile Zhang"
+    ],
+    "summary": "Topological concepts have been introduced into electronic, photonic, and\nphononic systems, but have not been studied in surface-water-wave systems. Here\nwe study a one-dimensional periodic resonant surface-water-wave system and\ndemonstrate its topological transition. By selecting three different water\ndepths, we can construct different types of water waves - shallow, intermediate\nand deep water waves. The periodic surface-water-wave system consists of an\narray of cylindrical water tanks connected with narrow water channels. As the\nwidth of connecting channel varies, the band diagram undergoes a topological\ntransition which can be further characterized by Zak phase. This topological\ntransition holds true for shallow, intermediate and deep water waves. However,\nthe interface state at the boundary separating two topologically distinct\narrays of water tanks can exhibit different bands for shallow, intermediate and\ndeep water waves. Our work studies for the first time topological properties of\nwater wave systems, and paves the way to potential management of water waves.",
+    "pdf_url": "http://arxiv.org/pdf/1504.02655v2",
+    "published": "2015-04-10"
+  },
+  "1912.03273v1": {
+    "title": "Water harvesting from Soils by Solar-to-Heat Induced Evaporation and Capillary Water Migration",
+    "authors": [
+      "Xiaotian Li",
+      "Guang Zhang",
+      "Chao Wang",
+      "Lichen He",
+      "Yantong Xu",
+      "Rong Ma",
+      "Wei Yao"
+    ],
+    "summary": "Fresh water scarcity is one of the critical challenges for global sustainable\ndevelopment. Several novel water resources such as passive seawater solar\ndesalination and atmospheric water harvesting have made some progress in recent\nyears. However, no investigation has referred to harvesting water from shallow\nsubsurface soils, which are potential huge water reservoirs. Here, we introduce\na method of solar-driven water harvesting from soils, which can provide cheap\nfresh water in impoverished, arid and decentralized areas. The concentrated\nsolar energy is used to heat the soils to evaporate the soil moisture. Then\nvapors flow to the condenser through tubes and condense as freshwater.\nSustainable water harvesting is realized by water migration due to capillary\npumping effect within soils. In the laboratory condition, an experimental setup\nis designed and its water-harvesting ability from soils is investigated. The\nmaximum water mass harvesting rate was 99.8 g h-1. In about 12 h, the total\nharvesting water could be as high as about 900 ml. The whole process is\nsolar-driven and spontaneous without other mechanical or electrical\nancillaries. The water harvesting rate under one sun energy flux (1 kW m-2) is\nestimated to be about 360 g h-1 with a 1 m2 solar concentrator. Our proposal\nprovides a potential onsite and sustainable fresh water supply solution to deal\nwith the water scarcity problem.",
+    "pdf_url": "http://arxiv.org/pdf/1912.03273v1",
+    "published": "2019-11-22"
+  },
+  "2408.01184v1": {
+    "title": "A Short-Term Planning Framework for the Operation of Tanker-Based Water Distribution Systems in Urban Areas",
+    "authors": [
+      "Abhilasha Maheshwari",
+      "Shamik Misra",
+      "Ravindra Gudi",
+      "Senthilmurugan Subbiah"
+    ],
+    "summary": "Tanker-based distribution systems have been prevalent in developing countries\nto supply clean and pure water in different regions. To efficiently operate\nsuch tanker service systems, a large fleet of tanker trucks are required to\ntransport water among several water sources, water treatment plants and\nconsumers spanning across the regions. This requires tighter coordination\nbetween water suppliers, treatment plant operations, and user groups to use\navailable water resources in a sustainable manner, along with the assurance of\nwater quality and timely delivery. This paper proposes a novel formulation to\nassist decision-making for optimizing tanker-based water distribution systems\nand treatment operations, with an overall objective of minimizing the total\noperating cost such that all of the constraints related to the water demand,\nsupply operations, and environmental and social aspects are honored while\nsupplying water to a maximum number of users. The problem is formulated and\nsolved as a mixed integer linear programming (MILP) optimization framework and\ncaptures all of the nuances related to (i) water availability limitations and\nquality constraints from different sources, (ii) maintaining water quality as\nit transports via tankers, (iii) water demands for various end-use purposes,\nand (iv) transportation across a water supply chain. The proposed novel\nframework is applied to a realistic urban model to find the optimal tanker\ndelivery schedule, ensuring appropriate treatment and timely delivery of water.\nThe results of the case study conducted on a representative-scale problem also\nelucidate several aspects of treatment plant operation and consumer demand\nfulfillment for the efficient planning and management of tanker-based water\ndistribution systems.",
+    "pdf_url": "http://arxiv.org/pdf/2408.01184v1",
+    "published": "2024-08-02"
+  }
+}

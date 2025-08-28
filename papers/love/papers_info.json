@@ -1,0 +1,11 @@
+{
+  "2103.06186v2": {
+    "title": "Jupiter's Dynamical Love Number",
+    "authors": [
+      "Dong Lai"
+    ],
+    "summary": "Recent observations by the {\\it Juno} spacecraft have revealed that the tidal\nLove number $k_2$ of Jupiter is $4\\%$ lower than the hydrostatic value. We\npresent a simple calculation of the dynamical Love number of Jupiter that\nexplains the observed \"anomaly\". The Love number is usually dominated by the\nresponse of the (rotation-modified) f-modes of the planet. Our method also\nallows for efficient computation of high-order dynamical Love numbers. While\nthe inertial-mode contributions to the Love numbers are negligible, a\nsufficiently strong stratification in a large region of the planet's interior\nwould induce significant g-mode responses and influence the measured Love\nnumbers.",
+    "pdf_url": "http://arxiv.org/pdf/2103.06186v2",
+    "published": "2021-03-10"
+  }
+}

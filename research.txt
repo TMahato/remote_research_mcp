@@ -1,0 +1,31 @@
+### Research on Synthetic Data Generation
+
+#### Paper 1: On the Equivalency, Substitutability, and Flexibility of Synthetic Data
+- **Authors**: Che-Jui Chang, Danrui Li, Seonghyeon Moon, Mubbasir Kapadia
+- **Summary**: This paper explores the efficacy of synthetic data in real-world scenarios, emphasizing its efficiency, scalability, and cost-effectiveness. The study investigates the equivalency, substitutability, and flexibility of synthetic data, showing that it can replace real data by 60% to 80% without performance loss.
+- **Published**: March 24, 2024
+- [Read more](http://arxiv.org/pdf/2403.16244v1)
+
+#### Paper 2: PreFair: Privately Generating Justifiably Fair Synthetic Data
+- **Authors**: David Pujol, Amir Gilad, Ashwin Machanavajjhala
+- **Summary**: PreFair is a system for generating differentially private fair synthetic data, addressing fairness issues in synthetic data generation. It incorporates causal fairness criteria to ensure fair synthetic data.
+- **Published**: December 20, 2022
+- [Read more](http://arxiv.org/pdf/2212.10310v2)
+
+#### Paper 3: The Synthetic Mirror -- Synthetic Data at the Age of Agentic AI
+- **Authors**: Marcelle Momha
+- **Summary**: This paper discusses the implications of synthetic data generation for privacy and policymaking, advocating for targeted amendments to existing frameworks to ensure trust and accountability.
+- **Published**: June 15, 2025
+- [Read more](http://arxiv.org/pdf/2506.13818v1)
+
+#### Paper 4: Synthetic Data for Deep Learning
+- **Authors**: Sergey I. Nikolenko
+- **Summary**: A comprehensive survey on synthetic data for deep learning, covering various applications and challenges, including domain adaptation and privacy-related applications.
+- **Published**: September 25, 2019
+- [Read more](http://arxiv.org/pdf/1909.11512v1)
+
+#### Paper 5: Boosting Data Analytics With Synthetic Volume Expansion
+- **Authors**: Xiaotong Shen, Yifei Liu, Rex Shen
+- **Summary**: This paper explores the effectiveness of statistical methods on synthetic data and privacy risks, presenting a framework for synthetic data generation for analytics.
+- **Published**: October 27, 2023
+- [Read more](http://arxiv.org/pdf/2310.17848v3)

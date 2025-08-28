@@ -1,0 +1,11 @@
+{
+  "0805.1352v1": {
+    "title": "PHENIX measurements of 3D emission source functions in Au+Au collisions at $\\sqrt{s_{NN}} = 200$ GeV",
+    "authors": [
+      "Roy A. Lacey"
+    ],
+    "summary": "A state-of-the-art 3D source imaging technique is used to extract the 3D\ntwo-pion source function in central and mid-central Au+Au collisions at\n$\\sqrt{s_{NN}} = 200$ GeV. The source function indicates a previously\nunresolved non-Gaussian tail in the directions of the pion pair transverse\nmomentum (out) and along the beam (long). Model comparisons give robust\nestimates for several characteristics of the emission source, including its\ntransverse size, its mean proper breakup time $\\tau$ and its emission duration\n$\\Delta\\tau$. These estimates are incompatible with the predictions for a first\norder phase transition. However, they point to significant relative emission\ntimes which could result from a crossover phase transition.",
+    "pdf_url": "http://arxiv.org/pdf/0805.1352v1",
+    "published": "2008-05-09"
+  }
+}
